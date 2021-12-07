@@ -2,25 +2,25 @@
   {
     "id" : "3945314588",
     "cardImageFile": "bahamas",
-    "name": "Bahamas",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "name": "Royal Garden Hotel",
+    "description": "酒店設有一間馳名餅店Fine Foods Shop及多間獲獎無數的餐廳，包括1992年開業的Sabatini意大利餐廳、四季菊日本餐廳、中菜帝苑軒、自助餐「雅苑座」咖啡廳、北京菜東來順、越南菜 Le Soleil及法式酒吧 J’s Bar Bistro。酒店的餐飲業務曾由已故新鴻基地產前主席郭炳湘親自管理及監督，所以有一定的水準。\n\n酒店亦設2間宴會廳、商務中心、桑拿浴室、蒸汽室、水力按摩池及護理室。 ",
     "grade": 4.5,
     "contact": "bahamas@hotel.com",
     "coordinates": {
-      "latitude": 24.717748,
-      "longitude": -77.781733
+      "latitude": 22.298668181367276,
+      "longitude": 114.17767640712627
     }
   },
   {
     "id" : "8212387562",
     "cardImageFile": "badvilbel",
-    "name": "Bad Vilbel",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "name": "Hotel COZi•Oasis",
+    "description": "悅品海景酒店（英語：HOTEL COZI ∙ HARBOUR VIEW），前身為「觀塘麗東酒店」，為香港一間酒店，位於香港觀塘偉業街163號，於2007年開業。酒店樓高36層，提供598個酒店房間。[1]\n\n觀塘麗東酒店是由工廈改建而成，每方呎補地價金額為約1257港元，同時亦是東九龍第一個活化工廈計劃改建成酒店的項目。2017年2月，鄧成波以23億港元向恒基地產收購觀塘麗東酒店。[1][2]\n\n2018年2月，悅品海景酒店開業。 ",
     "grade": 4.3,
     "contact": "badvilbel@hotel.com",
     "coordinates": {
-      "latitude": 50.192115,
-      "longitude": 8.743960
+      "latitude": 22.365940845626234,
+      "longitude": 114.13481026400575
     }
   },
   {
